@@ -1,0 +1,22 @@
+target/
+*.class
+dependency-reduced-pom.xml
+
+# Log files
+*.log
+error_log.txt
+
+# Generated invoices
+invoices/*.pdf
+
+# IDE and Editor files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS files
+.DS_Store
+Thumbs.db
